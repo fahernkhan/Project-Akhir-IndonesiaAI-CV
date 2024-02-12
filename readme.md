@@ -37,6 +37,7 @@ Collected data undergoes preprocessing and augmentation to ensure uniformity and
 - **Hue (+/- 15°):** Adjusting the hue of images by up to 15 degrees to introduce variability in color tones, enhancing model robustness to different environmental conditions.
 
 By preprocessing the data and applying augmentation techniques, the dataset is expanded and enriched, providing the deep learning model with more diverse examples to learn from. This process helps improve the model's performance and generalization capabilities when deployed in real-world scenarios.
+![image](https://github.com/fahernkhan/Project-Akhir-IndonesiaAI-CV/assets/128980804/6d82ca4d-5828-4928-a877-395876a0a6a1)
 
 ## Model Development
 We implement YOLO (You Only Look Once) object detection algorithm variations, including YOLOv3, YOLOv5, and YOLOv8.
@@ -94,8 +95,11 @@ The table below summarizes the evaluation results of different YOLO model variat
 | YOLOv8l | 0.843     | 0.768  | 0.828 | 0.660      | ±18                  |
 | YOLOv8x | 0.801     | 0.695  | 0.782 | 0.535      | ±5                   |
 
+![image](https://github.com/fahernkhan/Project-Akhir-IndonesiaAI-CV/assets/128980804/c66c3c34-f02b-4d13-8fda-dfe8beec82c0)
 
 ## Future Improvements
 - Implement tracking and counting algorithms to quantify coral population sizes.
 - Integrate into the Robot Operating System (ROS) for real-time deployment with underwater robots.
 - Establish regular real-time deployment for continuous monitoring and conservation efforts.
+
+![image](https://github.com/fahernkhan/Project-Akhir-IndonesiaAI-CV/assets/128980804/93030440-5705-4ef0-8bd7-930ff620c156)
