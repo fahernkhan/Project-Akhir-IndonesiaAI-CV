@@ -1,6 +1,7 @@
 # Coral Life Forms Detection for Analysis of Climate Change Impact on Coral Biodiversity
 
-![Coral Reef](coral_reef_image.jpg)
+![image](https://github.com/fahernkhan/Project-Akhir-IndonesiaAI-CV/assets/128980804/71e57ff7-4d82-4b25-a569-d4733e00cb18)
+
 
 ## Overview
 Coral reefs are vital ecosystems facing unprecedented threats due to climate change. Our project aims to analyze the impact of climate change on coral biodiversity through the development of a Coral Life Forms Detection system using deep learning techniques.
